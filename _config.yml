@@ -20,7 +20,7 @@ locale: en-US
 title: "Knowledge Deck"
 description: "My digital notebook"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://sunpreetbrar.github.io 
+url: https://www.sunpreetbrar.github.io 
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
